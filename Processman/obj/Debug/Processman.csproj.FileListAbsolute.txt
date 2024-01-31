@@ -1,0 +1,17 @@
+C:\Users\milroycooray\source\repos\Processman\Processman\bin\Debug\Processman.exe.config
+C:\Users\milroycooray\source\repos\Processman\Processman\bin\Debug\Processman.exe
+C:\Users\milroycooray\source\repos\Processman\Processman\bin\Debug\Processman.pdb
+C:\Users\milroycooray\source\repos\Processman\Processman\bin\Debug\MetroFramework.Design.dll
+C:\Users\milroycooray\source\repos\Processman\Processman\bin\Debug\MetroFramework.dll
+C:\Users\milroycooray\source\repos\Processman\Processman\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\milroycooray\source\repos\Processman\Processman\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\milroycooray\source\repos\Processman\Processman\bin\Debug\System.CodeDom.dll
+C:\Users\milroycooray\source\repos\Processman\Processman\bin\Debug\System.CodeDom.xml
+C:\Users\milroycooray\source\repos\Processman\Processman\obj\Debug\Processman.csproj.AssemblyReference.cache
+C:\Users\milroycooray\source\repos\Processman\Processman\obj\Debug\Processman.Form1.resources
+C:\Users\milroycooray\source\repos\Processman\Processman\obj\Debug\Processman.Properties.Resources.resources
+C:\Users\milroycooray\source\repos\Processman\Processman\obj\Debug\Processman.csproj.GenerateResource.cache
+C:\Users\milroycooray\source\repos\Processman\Processman\obj\Debug\Processman.csproj.CoreCompileInputs.cache
+C:\Users\milroycooray\source\repos\Processman\Processman\obj\Debug\Processman.csproj.CopyComplete
+C:\Users\milroycooray\source\repos\Processman\Processman\obj\Debug\Processman.exe
+C:\Users\milroycooray\source\repos\Processman\Processman\obj\Debug\Processman.pdb
